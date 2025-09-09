@@ -1,0 +1,111 @@
+﻿Player_ID,Full_Name,Birthdate,Nationality,Nation_ID,Position,Jersey_Number,Team_ID,Year_Joined_Club,Debut_Career,   Market_Value_In_Millions   
+1,Moisés Caicedo,11/2/2001,Ecuadorian,11,Midfielder,25,1,2023,2019,75000000
+2,Enzo Fernández,1/17/2001,Argentine,2,Midfielder,8,1,2023,2020,75000000
+3,Pedro Neto,3/9/2000,Portuguese,24,Forward,7,1,2024,2017,55000000
+4,Reece James ,12/8/1999,English,13,Defender,24,1,2019,2018,40000000
+5,Nicolas Jackson ,6/20/2001,Senegalese,26,Forward,15,1,2023,2022,35000000
+6,Christopher Nkunku,11/14/1997,French,14,Forward,18,1,2023,2015,65000000
+7,Levi Colwill,2/26/2003,English,13,Defender,6,1,2022,2022,50000000
+8,Cole Palmer,5/6/2022,English,13,Midfielder,20,1,2023,2020,80000000
+9,Bukayo Saka,9/5/2001,English,13,Forward,7,2,2019,2018,140000000
+10,Declan Rice,1/14/1999,English,13,Midfielder,41,2,2023,2017,120000000
+11,Martin Ødegaard,12/17/1998,Norwegian,22,Midfielder,8,2,2021,2014,110000000
+12,Kai Havertz,6/11/1999,German,16,Forward,29,2,2023,2016,70000000
+13,Heung-min Son,7/8/1992,South Korean,28,Forward,7,3,2015,2010,45000000
+14,Dominic Solanke,9/14/1997,English,13,Forward,19,3,2024,2014,40000000
+15,Cristian Romero,4/27/1998,Argentine,2,Defender,17,3,2022,2016,65000000
+16,Micky van de Ven,5/19/2001,Dutch,10,Defender,37,3,2023,2020,55000000
+17,James Maddison,11/23/1996,English,13,Forward,10,3,2023,2014,70000000
+18,Joshua Zirkzee,5/22/2001,Dutch,10,Forward,11,4,2024,2019,50000000
+19,Matthijs de Ligt,8/12/1999,Dutch,10,Defender,4,4,2024,2016,65000000
+20,Marcus Rashford,10/31/1997,English,13,Forward,10,4,2016,2016,60000000
+21,Bruno Fernandes,9/8/1994,Portuguese,24,Midfielder,8,4,2020,2012,70000000
+22,Erling Haaland ,7/21/2000,Norwegian,22,Forward,9,5,2022,2016,180000000
+23,Sávio Oliveira,4/10/2004,Brazilian,4,Forward,26,5,2024,2022,50000000
+24,Kevin De Bruyne,6/28/1991,Belgian,3,Midfielder,17,5,2015,2008,50000000
+25,Phil Foden,5/28/2000,English,13,Midfielder,47,5,2017,2017,150000000
+26,Rodri Cascante,6/22/1996,Spanish,29,Midfielder,16,5,2019,2015,130000000
+27,Luis Díaz,1/13/1997,Colombian,7,Forward,7,6,2022,2016,75000000
+28,Virgil van Dijk,7/8/1991,Dutch,10,Defender,4,6,2018,2011,30000000
+29,Mohamed Salah,6/15/1992,Egyptian,12,Forward,11,6,2017,2010,55000000
+30,Dominik Szoboszlai,10/25/2000,Hungarian,17,Midfielder,8,6,2023,2017,75000000
+31,Andrew Robertson ,3/11/1994,Scottish,25,Defender,26,6,2017,2012,30000000
+32,Wataru Endo,2/9/1993,Japanese,33,Midfielder,3,6,2023,2010,13000000
+33,Frenkie de Jong,5/12/1997,Dutch,10,Midfielder,21,7,2019,2015,70000000
+34,Lamine Yamal ,7/13/2007,Spanish,29,Forward,19,7,2023,2023,120000000
+35,Pau Cubarsí,1/22/2007,Spanish,29,Defender,2,7,2024,2023,30000000
+36,Robert Lewandowski,8/21/1988,Polish,23,Forward,9,7,2022,2006,15000000
+37,Pau Víctor,11/26/2001,Spanish,29,Forward,18,7,2024,2022,1500000
+38,Pedri González,11/25/2002,Spanish,29,Midfielder,8,7,2019,2019,80000000
+39,Kylian Mbappé,12/20/1998,French,14,Forward,9,8,2024,2015,180000000
+40,Dani Carvajal ,1/11/1992,Spanish,29,Defender,2,8,2013,2010,12000000
+41,Vinícius Júnior,7/12/2000,Brazilian,4,Forward,7,8,2018,2017,180000000
+42,Jude Bellingham,6/29/2003,English,13,Midfielder,5,8,2023,2019,180000000
+43,Antonio Rüdiger,3/3/1993,German,16,Defender,22,8,2022,2012,25000000
+44,Conor Gallagher,2/6/2000,English,13,Midfielder,4,9,2024,2021,50000000
+45,Julián Alvarez,1/31/2000,Argentine,2,Forward,19,9,2024,2018,90000000
+46,Antoine Griezmann,3/21/1991,French,14,Forward,7,9,2023,2009,25000000
+47,Axel Witsel,1/12/1989,Belgian,3,Defender,20,10,2022,2006,3500000
+48,Jesús Navas,11/21/1985,Spanish,29,Defender,16,10,2017,2003,2500000
+49,Dodi Lukebakio,9/24/1997,Spanish,29,Forward,11,10,2023,2015,12000000
+50,Lucien Agoumé,2/9/2002,French,14,Midfielder,18,10,2024,2019,6000000
+51,Dušan Vlahović,1/28/2000,Serbian,27,Forward,9,11,2022,2016,65000000
+52,Weston McKennie,8/28/1998,American,1,Midfielder,16,11,2021,2017,28000000
+53,Khéphren Thuram,3/26/2001,French,14,Midfielder,19,11,2024,2019,35000000
+54,Federico Chiesa,10/25/1997,Italian,18,Forward,7,11,2022,2016,35000000
+55,Pierre Kalulu,6/5/2000,French,14,Defender,15,11,2024,2020,20000000
+56,Álvaro Morata,10/23/1992,Spanish,29,Forward,7,12,2024,2010,16000000
+57,Christian Pulisic,9/18/1998,American,1,Forward,11,12,2023,2016,40000000
+58,Rafael Leão,6/10/1999,Portuguese,24,Forward,10,12,2019,2017,90000000
+59,Fikayo Tomori,12/19/1997,English,13,Defender,23,12,2021,2016,40000000
+60,Samuel Chukwueze,5/22/1999,Nigerian,21,Forward,21,12,2023,2017,20000000
+61,Victor Osimhen,12/29/1998,Nigerian,21,Forward,9,13,2020,2017,100000000
+62,Michael Folorunsho,2/7/1998,Nigerian,21,Midfielder,90,13,2019,2017,8500000
+63,Khvicha Kvaratskhelia,2/12/2001,Georgian,15,Forward,77,13,2022,2017,80000000
+64,Giovanni Di Lorenzo,8/4/1993,Italian,18,Defender,22,13,2019,2010,15000000
+65,Lautaro Martínez,8/22/1997,Argentine,2,Forward,10,14,2018,2015,110000000
+66,Marcus Thuram,8/6/1997,French,14,Forward,9,14,2023,2017,65000000
+67,Denzel Dumfries,4/18/1996,Dutch,10,Midfielder,2,14,2021,2014,24000000
+68,Piotr Zieliński,5/20/1994,Polish,23,Midfielder,7,14,2024,2012,22000000
+69,Xavi Simons,4/21/2003,Dutch,10,Midfielder,10,15,2023,2021,80000000
+70,Mohamed Simakan,5/3/2000,French,14,Defender,2,15,2021,2017,35000000
+71,André Silva,11/6/1995,Portuguese,24,Forward,19,15,2021,2015,6000000
+72,Arthur Vermeeren,2/7/2005,Dutch,10,Midfielder,18,15,2024,2022,25000000
+73,Michael Olise,12/12/2001,French,14,Forward,17,16,2024,2019,55000000
+74,Harry Kane,7/28/1993,English,13,Forward,9,16,2023,2011,100000000
+75,João Palhinha,7/9/1995,Portuguese,24,Midfielder,16,16,2024,2013,55000000
+76,Alphonso Davies,11/2/2000,Canadian,6,Defender,19,16,2019,2016,50000000
+77,Jamal Musiala,2/26/2003,German,16,Forward,42,16,2020,2020,130000000
+78,Dayot Upamecano,10/27/1998,French,14,Defender,2,16,2021,2015,45000000
+79,Min-jae-Kim,11/15/1996,South Korean,28,Defender,3,16,2023,2016,45000000
+80,Kingsley  Coman,6/13/1996,French,14,Forward,11,16,2017,2013,50000000
+81,Jeremie Frimpong,12/10/2000,Dutch,10,Defender,30,17,2021,2019,50000000
+82,Victor Boniface,12/23/2000,Nigerian,21,Forward,22,17,2023,2019,40000000
+83,Granit Xhaka,9/27/1992,Swiss,30,Midfielder,34,17,2023,2010,20000000
+84,Florian Wirtz,5/3/2003,German,16,Midfielder,10,17,2020,2020,130000000
+85,Karim Adeyemi,1/18/2002,German,16,Forward,27,18,2022,2018,28000000
+86,Youssoufa Moukoko,11/20/2004,German,16,Forward,18,18,2020,2020,22000000
+87,Sébastien Haller,6/22/1994,Ivorian,19,Forward,9,18,2022,2012,10000000
+88,Niklas Süle,9/3/1995,German,16,Defender,25,18,2022,2013,15000000
+89,Bradley Barcola,9/2/2002,French,14,Forward,29,19,2023,2022,50000000
+90,Ousmane Dembélé,5/15/1997,French,14,Forward,10,19,2023,2015,60000000
+91,Achraf Hakimi,11/4/1998,Moroccan,20,Defender,2,19,2021,2016,60000000
+92,Kang-in Lee,2/19/2001,South Korean,28,Midfielder,19,19,2023,2018,25000000
+93,Marco Asensio,1/21/1996,Spanish,29,Midfielder,11,19,2023,2013,20000000
+94,Fabián Ruiz,4/3/1996,Spanish,29,Midfielder,8,19,2022,2014,35000000
+95,Warren Zaïre-Emery,3/8/2006,French,14,Midfielder,33,19,2022,2022,60000000
+96,Nuno Mendes,6/19/2002,Portuguese,24,Defender,25,19,2022,2020,55000000
+97,Chancel Mbemba,8/8/1994,Congolese,8,Defender,99,20,2022,2013,15000000
+98,Pierre-Emile Højbjerg,8/5/1995,Danish,9,Midfielder,23,20,2024,2013,18000000
+99,Azzedine Ounahi,4/19/2000,Moroccan,20,Midfielder,8,20,2023,2018,12000000
+100,Faris Moumbagna,7/1/2000,Cameroonian,5,Forward,14,20,2024,2021,10000000
+101,Alexandre Lacazette,5/28/1991,French,14,Forward,10,21,2022,2010,9000000
+102,Georges Mikautadze,10/31/2000,Georgian,15,Forward,69,21,2024,2019,20000000
+103,Moussa Niakhaté,3/8/1996,French,14,Defender,19,21,2024,2014,16000000
+104,Nemanja Matić,8/1/1988,Serbian,27,Midfielder,31,21,2024,2007,3000000
+105,Corentin Tolisso,8/3/1994,French,14,Midfielder,8,21,2022,2013,5000000
+106,Amin Sarr,3/11/2001,Swedish,31,Midfielder,27,21,2023,2020,4000000
+107,Vanderson Campos,6/21/2001,Brazilian,4,Defender,2,22,2022,2020,20000000
+108,Krépin Diatta,2/25/1999,Senegalese,26,Forward,27,22,2021,2017,12000000
+109,Mohammed Salisu,4/17/1999,Ghanian,32,Defender,22,22,2023,2018,15000000
+110,Takumi Minamino,1/16/1995,Japanese,33,Forward,18,22,2022,2012,20000000
